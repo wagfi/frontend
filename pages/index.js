@@ -13,40 +13,39 @@ export default function Home() {
 
       <main className={styles.main}>
       <h1 className="text-3xl font-bold underline">
-        Hello world!
+        Wag Finance
       </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          save, win, stake, earn
         </p>
 
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <h2>Join Savers Pool &rarr;</h2>
+            <p>Deposit to win the lottery!</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <h2>Stake WAG &rarr;</h2>
+            <p>Earn rewards for staking.</p>
           </a>
 
           <a
             href="https://github.com/vercel/next.js/tree/canary/examples"
             className={styles.card}
           >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h2>Verify Contracts &rarr;</h2>
+            <p>Read source, bre.</p>
           </a>
 
           <a
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>Join Telegram &rarr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+              Chat with other savers and stakers.
             </p>
           </a>
         </div>
